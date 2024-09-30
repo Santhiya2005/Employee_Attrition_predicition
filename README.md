@@ -81,3 +81,16 @@ Instructions for installing necessary packages can be added here.
 
 ## Usage
 Instructions for how to use the model can be added here.
+## Accuracy 
+![image](https://github.com/user-attachments/assets/5dcd6221-d492-48ac-89fb-93e5a3eb22c5)
+## Model Comparsion
+![image](https://github.com/user-attachments/assets/ef9fb9e1-ec7e-4fc5-bb7e-a537f173e2f4)
+## Feature Importance
+![image](https://github.com/user-attachments/assets/feb64e9b-1175-479b-bd80-03354817c47b)
+## Output
+![image](https://github.com/user-attachments/assets/4196bd1b-9d23-455f-9e7c-9a13786e7bcd)
+![image](https://github.com/user-attachments/assets/15fcfb9f-5ee8-49a8-bfd3-3d21698e7b2e)
+
+
+
+
